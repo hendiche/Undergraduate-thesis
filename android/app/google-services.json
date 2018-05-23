@@ -1,0 +1,74 @@
+{
+  "project_info": {
+    "project_number": "382005737624",
+    "firebase_url": "https://ojek-3f378.firebaseio.com",
+    "project_id": "ojek-3f378",
+    "storage_bucket": "ojek-3f378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382005737624:android:a33595c56f6ac16c",
+        "android_client_info": {
+          "package_name": "com.ojekapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382005737624-04asmrqr4ncq1lovmo75crpdtjp253e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ojekapps",
+            "certificate_hash": "0f596f11e92561494b4d1cb2f5cef8215d778bfe"
+          }
+        },
+        {
+          "client_id": "382005737624-mg3mfu8va3qkic81vrfn48899j2flrab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ojekapps",
+            "certificate_hash": "b582b307d3d1c3b077915655dbc7b779dbef9d78"
+          }
+        },
+        {
+          "client_id": "382005737624-9ng7mudqn8vrts2pq6frs3g7oqgusj05.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "382005737624-gps3dla2qkdt9jco0ro9dceg59mknclh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBt23kufurc-gk5bgEQfjOjtF6TBPlQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382005737624-e3doih3j47184adcel2ce71hg5v1tje3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ojekapps"
+              }
+            },
+            {
+              "client_id": "382005737624-9ng7mudqn8vrts2pq6frs3g7oqgusj05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
